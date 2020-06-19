@@ -11,4 +11,4 @@ About Darknet framework: http://pjreddie.com/darknet/
 
 
 
-Descargar los pesos de la sigueinte liga https://drive.google.com/file/d/1d5VOAp6dtR_w6VqyHh5OZS3H2bWDp5nq/view?usp=sharing
+Descargar los pesos de la siguiente liga https://drive.google.com/file/d/1d5VOAp6dtR_w6VqyHh5OZS3H2bWDp5nq/view?usp=sharing
